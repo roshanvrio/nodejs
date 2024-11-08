@@ -10,7 +10,8 @@
   "author": "Adem Cemil YALCIN",
   "license": "ISC",
   "dependencies": {
-    "express":"latest",
-    "ejs":"latest"
+    "dotenv": "^16.4.5",
+    "ejs": "latest",
+    "express": "latest"
   }
 }
